@@ -1,0 +1,9 @@
+POST http://localhost:8080/api/orders
+Content-Type: application/json
+
+{
+  "id": "2a0b77db-71f8-4daf-a49a-7475fc5cad2a",
+  "product": "Schapen",
+  "quantity": 3,
+  "price": 200.5
+}
